@@ -1,2 +1,1 @@
-A readme on Shell, I/O Redirections annd filters
-
+Shell I/O redirection
